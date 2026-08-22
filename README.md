@@ -62,7 +62,6 @@ smart-expense-tracker-api/
 │
 ├── .gitignore
 ├── .env.example
-├── AI_NOTES.md
 ├── README.md
 ├── package.json
 ├── package-lock.json
@@ -411,5 +410,5 @@ The endpoint returns:
 - Expenses are stored in a local JSON file.
 - Categories are user-defined.
 - Dates are expected in `DD-MM-YYYY` format.
-- No authentication is required for this assignment.
+- No authentication is required for this application.
 - The application is designed for a single-user environment.
