@@ -1,7 +1,7 @@
 # Smart Expense Tracker API
 
 A RESTful API built with Node.js and Express.js to manage personal expenses.
-
+ 
 ---
 
 ## Features
