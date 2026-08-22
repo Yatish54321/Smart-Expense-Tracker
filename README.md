@@ -2,8 +2,6 @@
 
 A RESTful API built with Node.js and Express.js to manage personal expenses.
 
-This project was developed as part of the Diligent Apprenticeship Assignment.
-
 ---
 
 ## Features
@@ -123,8 +121,8 @@ npm -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/Yatish54321/Smart-Expense-Tracker-Diligent.git
-cd Smart-Expense-Tracker-Diligent
+git clone https://github.com/Yatish54321/Smart-Expense-Tracker.git
+cd Smart-Expense-Tracker
 
 ```
 
